@@ -1,0 +1,19 @@
+{
+  "name": "msbuildlog",
+  "version": "0.1.0",
+  "description": "Parser for the binary MSBuild log format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainersigwald/msbuildlog.js.git"
+  },
+  "author": "Rainer Sigwald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainersigwald/msbuildlog.js/issues"
+  },
+  "homepage": "https://github.com/rainersigwald/msbuildlog.js#readme"
+}
