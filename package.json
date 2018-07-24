@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rainersigwald/msbuildlog.js/issues"
   },
-  "homepage": "https://github.com/rainersigwald/msbuildlog.js#readme"
+  "homepage": "https://github.com/rainersigwald/msbuildlog.js#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
