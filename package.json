@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rainersigwald/msbuildlog.js#readme",
   "devDependencies": {
+    "chai": "^4.1.2",
     "mocha": "^5.2.0"
   }
 }
